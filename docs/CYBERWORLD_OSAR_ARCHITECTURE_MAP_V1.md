@@ -1,202 +1,151 @@
-# CyberWorld-OSAR Architecture Map V1.0
+# CyberWorld-OSAR V1 Architecture Map
 
-## Operational State Anchor Record Architecture
-
----
-
-# 0. Purpose
-
-CyberWorld-OSAR (Operational State Anchor Record) is a state representation and authority mapping layer.
-
-Its purpose is to answer:
-
-1. What operational state is being represented?
-2. Who has authority to define that state?
-3. What evidence supports the state?
-4. What scope does the state affect?
-5. When does the state expire, resolve, or transition?
-
-CyberWorld-OSAR does not own the world state.
-
-It records the relationship between:
-
-- state
-- authority
-- evidence
-- scope
-- time
-- resolution
+## CyberWorld-OSAR
+Operational State Anchor Record System
 
 ---
 
-# Core Principle
-
-The ocean does not own the boat.
-
-The boat does not own the ocean.
-
-The anchor does not own either.
-
-The anchor only records:
-
-- where it is attached
-- who deployed it
-- what area it affects
-- why it exists
-- when it expires
-- who can remove it
-
----
-
-# Architecture Map
+## Architecture Map
 
 ```text
 CyberWorld-OSAR
-
 │
 ├── 0. Foundations
 │
-│     ├── AuthorityAction
-│     │
-│     │     Defines allowed authority operations.
+│     ├── OSARRecord
+│     │     The existence of a state record.
 │     │
 │     ├── AuthorityRef
+│     │     Who is speaking the state.
 │     │
-│     │     Defines who is speaking.
+│     ├── AuthorityAction
+│     │     What actions an authority may perform.
 │     │
 │     └── OSARAnchorLifecycle
-│
-│           Defines anchor state movement:
-│
-│           DEPLOYED
-│           UNDER_REVIEW
-│           RELEASED
-│           EXPIRED
+│           The time/state movement model.
 │
 │
 ├── 1. Primitives
 │
 │     ├── EventOSAR
+│     │     Specific event evidence.
 │     │
-│     │     Records an individual event.
+│     ├── CyberWorldState
+│     │     The operational condition represented.
+│     │
+│     ├── EvidenceRecord
+│     │     Supporting proof references.
+│     │
+│     └── OSARAnchor
+│           State attachment with scope and expiry.
+│
+│
+├── 2. Laws / Invariants
+│
+│     ├── No-Bleed Law
+│     │     State cannot escape declared scope.
+│     │
+│     ├── Clock Law
+│     │     State expires unless renewed.
+│     │
+│     ├── Label Law
+│     │     State requires semantic meaning.
+│     │
+│     └── Two-Key Law
+│           Deployment and release authority separation.
+│
+│
+├── 3. CORE Layer
+│
+│     ├── OSARCoreBinding
+│     │     Converts OSAR state into Core understanding.
+│     │
+│     ├── WorldStateEvaluator
+│     │     Evaluates state transitions.
+│     │
+│     ├── AuthorityGraph
+│     │     Maps authority relationships.
+│     │
+│     └── OSARAnchorRegistry
+│           Stores and manages anchors.
+│
+│
+├── 4. NET Layer
+│
+│     ├── NetSurfacePacket
+│     │     Safe representation of Core state.
+│     │
+│     ├── Dewey Surface Adapter
+│     │     Visibility only.
+│     │
+│     ├── Biff Enforcement Adapter
+│     │     Scope enforcement only.
+│     │
+│     ├── Bridge Routing Adapter
+│     │     Movement between lanes.
+│     │
+│     └── CBC Governance Adapter
+│           Boundary validation.
+│
+│
+├── 5. Flow
+│
+│     ├── Event
+│     │
+│     ├── EventOSAR
 │     │
 │     ├── CyberWorldState
 │     │
-│     │     Represents an operational condition.
+│     ├── OSARAnchor
 │     │
-│     ├── EvidenceRecord
+│     ├── OSARCoreBinding
 │     │
-│     │     Records supporting proof artifacts.
+│     ├── CORE Evaluation
 │     │
-│     └── OSARAnchor
-│
-│           Attaches a state to a defined object,
-│           capability, lane, or context.
-│
-│
-├── 2. Laws (Invariants)
-│
-│     ├── No-Bleed Law
+│     ├── NET Surface Projection
 │     │
-│     │     An anchor cannot affect
-│     │     contexts outside its scope.
+│     ├── Dewey / Biff / Bridge / CBC
 │     │
-│     ├── Clock Law
+│     ├── Expiration
 │     │
-│     │     Every anchor has a temporal boundary.
-│     │     Expired anchors cannot remain active.
+│     ├── Release
 │     │
-│     ├── Label Law
-│     │
-│     │     Every state requires semantic meaning.
-│     │     No undefined restrictions.
-│     │
-│     └── Two-Key Law
-│
-│           Deployment authority and release authority
-│           must remain separated.
+│     └── Resolution
 │
 │
-├── 3. Engines
+├── 6. Repository Boundary
 │
-│     ├── OSARAnchorRegistry
+│     ├── src/core
+│     │     OSAR reasoning and state handling.
 │     │
-│     │     Stores and manages anchors.
-│     │
-│     ├── WorldStateEvaluator
-│     │
-│     │     Converts accumulated events into
-│     │     recognized world states.
-│     │
-│     └── AuthorityGraph
-│
-│           Maps authority claims,
-│           jurisdiction,
-│           and applied rulesets.
+│     └── src/net
+│           OSAR surface communication.
 │
 │
-├── 4. Organs (Consumers)
-│
-│     ├── Dewey
-│     │
-│     │     Visibility layer.
-│     │     Shows current surface state.
-│     │
-│     ├── Biff
-│     │
-│     │     Enforcement boundary.
-│     │     Applies scope rules.
-│     │
-│     ├── CBC
-│     │
-│     │     Governance layer.
-│     │     Prevents authority bleed.
-│     │
-│     └── Bridge
-│
-│           Routes state movement between systems.
-│
-│
-└── 5. Flow
-
-
-      Event
-        |
-        v
-
-      EventOSAR
-
-        |
-        v
-
-      CyberWorldState
-
-        |
-        v
-
-      OSARAnchor
-
-        |
-        v
-
-      AnchorRegistry
-
-        |
-        v
-
-      Dewey / Biff / CBC / Bridge
-
-        |
-        v
-
-      Expiration
-
-        |
-        v
-
-      Release
-
-        |
-        v
-
-      Resolution
+└── 7. Binding Layer
+      │
+      ├── OSAR → CORE Binding Rules
+      │
+      │     ├── State Interpretation Rules
+      │     ├── Authority Translation Rules
+      │     ├── Evidence Validation Rules
+      │     ├── Scope Isolation Rules
+      │     └── Lifecycle Enforcement Rules
+      │
+      │
+      ├── CORE → NET Binding Rules
+      │
+      │     ├── Capability Lane Mapping
+      │     ├── Enforcement Projection Rules
+      │     ├── Visibility Projection Rules
+      │     ├── Routing Projection Rules
+      │     └── Governance Projection Rules
+      │
+      │
+      └── Cross-Layer Guarantees
+            │
+            ├── No Identity Mutation
+            ├── No Authority Bleed
+            ├── No Global Collapse
+            ├── No Permanent States
+            └── No Moral Labels
