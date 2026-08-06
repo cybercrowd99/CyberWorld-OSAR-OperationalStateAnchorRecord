@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR — OSARDoctrineBinding Artifact
- *
+ * 
  * OSARDoctrineBinding defines the bounded attachment layer
  * connecting OSAR artifacts to declared doctrine requirements.
  *
