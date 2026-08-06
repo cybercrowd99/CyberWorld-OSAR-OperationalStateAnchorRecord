@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR — OSARNetProjectionEnvelope Artifact
- *
+ * 
  * OSARNetProjectionEnvelope defines the bounded NET handoff
  * representation layer responsible for carrying an approved
  * projection authorization into controlled NET projection flow.
