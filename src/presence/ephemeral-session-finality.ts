@@ -1,6 +1,6 @@
  /**
   * CyberWorld Ephemeral Session Finality
-  *
+  * 
   * Purpose:
   * - Record the terminal structural state of an ephemeral session lifecycle.
   * - Preserve finality continuity after closure.
