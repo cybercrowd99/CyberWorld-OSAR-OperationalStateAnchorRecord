@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR — OSARProjectionVerification Artifact
- *
+ * 
  * OSARProjectionVerification defines the bounded verification
  * representation layer responsible for recording verification
  * of a structurally preserved projection integrity condition.
