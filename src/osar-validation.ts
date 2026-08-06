@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR — OSARValidation Artifact
- *
+ * 
  * OSARValidation defines the bounded validation layer
  * responsible for confirming structural integrity across
  * the complete OSAR operational chain.
