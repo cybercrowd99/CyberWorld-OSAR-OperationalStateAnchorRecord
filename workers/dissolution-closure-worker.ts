@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR
- *
+ * 
  * Dissolution Closure Worker
  *
  * Bounded lifecycle closure organ.
