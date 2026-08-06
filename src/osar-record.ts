@@ -1,3 +1,25 @@
+/**
+ * CyberWorld-OSAR
+ *
+ * Operational State Anchor Record.
+ *
+ * Purpose:
+ * - represent bounded operational state records
+ * - preserve authority, evidence, scope, and lifecycle references
+ * - maintain linkage between records and OSAR anchors
+ *
+ * Does NOT:
+ * - execute operational actions
+ * - create authority
+ * - establish ownership
+ * - modify anchor state
+ * - validate external systems
+ * - expose protected artifact contents
+ * - control lifecycle enforcement
+ *
+ * OSAR record handling is structural record representation only.
+ */
+
 import { OSARAnchor } from "./osar-anchor";
 
 export interface OSARRecord {
