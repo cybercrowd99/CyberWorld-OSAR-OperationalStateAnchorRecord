@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR — OSARProjectionAssuranceArchive Artifact
- *
+ * 
  * OSARProjectionAssuranceArchive defines the bounded archival layer
  * responsible for preserving a completed assurance-history checkpoint for
  * historical reference.
