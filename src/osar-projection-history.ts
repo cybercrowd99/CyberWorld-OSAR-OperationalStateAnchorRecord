@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR — OSARProjectionHistory Artifact
- *
+ * 
  * OSARProjectionHistory defines the bounded historical
  * representation layer responsible for preserving completed
  * projection lineage after closure recording.
