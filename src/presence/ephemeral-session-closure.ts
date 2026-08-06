@@ -1,6 +1,6 @@
 /**
  * CyberWorld Ephemeral Session Closure
- *
+ * 
  * Purpose:
  * - Record the structural completion of an ephemeral session.
  * - Confirm channel/session lifecycle termination.
