@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR — OSARProjectionArchive Artifact
- *
+ * 
  * OSARProjectionArchive defines the bounded archive
  * representation layer responsible for preserving a completed
  * projection continuity chain for historical reference.
