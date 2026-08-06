@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR — OSARIntegrityReport Artifact
- *
+ * 
  * OSARIntegrityReport defines the bounded verification summary
  * layer responsible for representing the structural condition
  * of an OSAR continuity chain.
