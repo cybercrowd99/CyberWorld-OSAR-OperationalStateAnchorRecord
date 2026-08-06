@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR — OSARProjectionAssuranceVerification Artifact
- *
+ * 
  * OSARProjectionAssuranceVerification defines the bounded verification layer
  * responsible for recording structural verification of an assurance ledger
  * checkpoint.
