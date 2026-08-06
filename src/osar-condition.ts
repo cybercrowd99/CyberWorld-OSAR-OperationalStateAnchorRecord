@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR — OSARCondition Artifact
- *
+ * 
  * OSARCondition defines the bounded condition representation
  * used to describe an operational condition before it is attached
  * through OSAR anchoring and record structures.
