@@ -39,3 +39,4 @@ An OSARRecord is not the world state.
 It is a structured representation of an operational condition.
 
 CyberWorld-OSAR separates:
+
