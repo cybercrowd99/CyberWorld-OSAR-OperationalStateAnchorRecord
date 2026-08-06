@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR — OSARProjectionRetention Artifact
- *
+ * 
  * OSARProjectionRetention defines the bounded retention
  * representation layer responsible for preserving a terminal
  * projection condition for historical reference.
