@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR — OSARProjectionAssuranceIntegrityClosure Artifact
- *
+ * 
  * OSARProjectionAssuranceIntegrityClosure defines the bounded closure layer
  * responsible for recording the historical closure condition of a finalized
  * integrity checkpoint.
