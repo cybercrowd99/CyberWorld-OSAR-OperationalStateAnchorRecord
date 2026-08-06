@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR — OSARProjectionAuthorization Artifact
- *
+ * 
  * OSARProjectionAuthorization defines the bounded authorization-
  * representation layer responsible for recording that projection
  * requirements have been structurally satisfied before NET handling.
