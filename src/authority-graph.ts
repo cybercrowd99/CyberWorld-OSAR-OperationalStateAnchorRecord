@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR — AuthorityGraph Relationship Artifact
- *
+ * 
  * AuthorityGraph defines the bounded relationship representation
  * between declared authority references inside CyberWorld-OSAR.
  *
