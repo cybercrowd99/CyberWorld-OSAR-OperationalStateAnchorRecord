@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR — OSARProjectionFinalization Artifact
- *
+ * 
  * OSARProjectionFinalization defines the bounded finalization
  * representation layer responsible for recording completion of
  * a structurally attested projection checkpoint.
