@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR — OSARAuditRecord Artifact
- *
+ * 
  * OSARAuditRecord defines the bounded audit-reference layer
  * responsible for preserving verification history of OSAR
  * structural operations.
