@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR — CBC Governance Projection Adapter
- *
+ * 
  * CBC Adapter defines the bounded governance projection layer
  * responsible for validating OSAR boundary compliance before
  * operational surface exposure.
