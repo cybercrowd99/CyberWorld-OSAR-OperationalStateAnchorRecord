@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR — OSARProjectionAssuranceIntegrityConfirmationVerificationAttestationPreservationLedger Artifact
- *
+ * 
  * OSARProjectionAssuranceIntegrityConfirmationVerificationAttestationPreservationLedger
  * defines the bounded preservation-ledger layer responsible for recording
  * preservation-continuity lineage after preservation confirmation.
