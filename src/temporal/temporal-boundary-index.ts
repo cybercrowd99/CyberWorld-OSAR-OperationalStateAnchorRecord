@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR
- *
+ * 
  * Temporal Boundary Index
  *
  * Skinny lifecycle index used by blind temporal workers.
