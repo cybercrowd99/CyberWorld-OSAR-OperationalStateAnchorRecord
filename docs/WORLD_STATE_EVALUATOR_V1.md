@@ -40,3 +40,4 @@ WorldStateEvaluator does not create a state.
 It evaluates whether an existing represented state may move through a permitted transition.
 
 Flow:
+
