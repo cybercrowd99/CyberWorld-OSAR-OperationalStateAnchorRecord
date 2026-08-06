@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR — OSARConditionTransition Artifact
- *
+ * 
  * OSARConditionTransition defines the bounded movement
  * representation between registered OSAR conditions.
  *
