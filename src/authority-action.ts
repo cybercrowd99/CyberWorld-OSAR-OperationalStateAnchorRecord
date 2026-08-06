@@ -1,3 +1,25 @@
+/**
+ * Authority Action
+ *
+ * Authority action structural record layer.
+ *
+ * Purpose:
+ * - represent bounded authority action references
+ * - preserve declared action type relationships
+ * - validate authority action structural alignment
+ *
+ * Does NOT:
+ * - grant authority
+ * - execute authority actions
+ * - modify permissions
+ * - create identity
+ * - establish ownership
+ * - enforce external systems
+ * - control policy decisions
+ *
+ * This layer provides structural authority action representation only.
+ */
+
 import { AuthorityRef } from "./authority-ref";
 
 export type AuthorityActionType =
