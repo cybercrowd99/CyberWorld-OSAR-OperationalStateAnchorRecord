@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR — Clock Law Invariant Artifact
- *
+ * 
  * Clock Law defines the bounded temporal invariant that prevents
  * represented operational conditions from becoming uncontrolled
  * permanent states.
