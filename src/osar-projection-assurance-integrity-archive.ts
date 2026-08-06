@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR — OSARProjectionAssuranceIntegrityArchive Artifact
- *
+ * 
  * OSARProjectionAssuranceIntegrityArchive defines the bounded archival layer
  * responsible for preserving a completed integrity-history checkpoint for
  * long-term structural reference.
