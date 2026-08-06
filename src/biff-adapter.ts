@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR — Biff Enforcement Projection Adapter
- *
+ * 
  * Biff Adapter defines the bounded enforcement projection layer
  * for approved NET surface representations.
  *
