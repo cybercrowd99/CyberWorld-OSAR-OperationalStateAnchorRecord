@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR — CyberWorldState Condition Artifact
- *
+ * 
  * CyberWorldState defines the bounded operational condition
  * represented by an OSARRecord.
  *
