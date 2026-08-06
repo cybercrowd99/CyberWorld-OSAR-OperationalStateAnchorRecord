@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR — OSARProjectionAssuranceIntegrityConfirmationVerificationAttestationPreservationVerificationLedgerArchive Artifact
- *
+ * 
  * OSARProjectionAssuranceIntegrityConfirmationVerificationAttestationPreservationVerificationLedgerArchive
  * defines the bounded archival layer responsible for preserving a completed
  * preservation-verification-ledger-history checkpoint for long-term structural
