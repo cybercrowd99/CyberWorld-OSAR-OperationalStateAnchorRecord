@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR — OSAROperationalContext Artifact
- *
+ * 
  * OSAROperationalContext defines the bounded context layer
  * responsible for describing where an operational envelope
  * is being represented.
