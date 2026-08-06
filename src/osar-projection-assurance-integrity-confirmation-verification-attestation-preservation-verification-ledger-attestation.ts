@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR — OSARProjectionAssuranceIntegrityConfirmationVerificationAttestationPreservationVerificationLedgerAttestation Artifact
- *
+ * 
  * OSARProjectionAssuranceIntegrityConfirmationVerificationAttestationPreservationVerificationLedgerAttestation
  * defines the bounded attestation layer responsible for recording the structural
  * attestation of a verified PreservationVerificationLedger checkpoint.
