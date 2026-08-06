@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR — OSARSurfaceProjectionRecord Artifact
- *
+ * 
  * OSARSurfaceProjectionRecord defines the bounded surface
  * projection record layer responsible for representing a
  * controlled NET projection event after handoff validation.
