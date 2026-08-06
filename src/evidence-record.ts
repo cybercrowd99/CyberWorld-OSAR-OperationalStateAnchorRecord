@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR — EvidenceRecord Supporting Artifact
- *
+ * 
  * EvidenceRecord defines the bounded evidence reference
  * supporting a represented operational condition.
  *
