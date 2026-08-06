@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR — OSARProjectionSeal Artifact
- *
+ * 
  * OSARProjectionSeal defines the bounded sealing layer
  * responsible for recording that a projection verification path
  * has reached a preserved structural checkpoint.
