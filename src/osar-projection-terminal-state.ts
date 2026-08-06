@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR — OSARProjectionTerminalState Artifact
- *
+ * 
  * OSARProjectionTerminalState defines the bounded terminal-state
  * representation layer responsible for recording the final preserved
  * condition of a completed projection closure path.
