@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR — No-Bleed Law Invariant Artifact
- *
+ * 
  * No-Bleed Law defines the bounded scope invariant that prevents
  * represented operational conditions from escaping their declared
  * operational boundary.
