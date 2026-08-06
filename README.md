@@ -69,3 +69,4 @@ A state:
 Example:
 
 A financial restriction may affect:
+
