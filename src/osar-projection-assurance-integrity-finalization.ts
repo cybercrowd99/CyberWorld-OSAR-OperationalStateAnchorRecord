@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR — OSARProjectionAssuranceIntegrityFinalization Artifact
- *
+ * 
  * OSARProjectionAssuranceIntegrityFinalization defines the bounded finalization
  * layer responsible for recording closure of an attested integrity checkpoint.
  *
