@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR — OSARContinuityLedger Artifact
- *
+ * 
  * OSARContinuityLedger defines the bounded continuity record
  * responsible for preserving artifact progression history.
  *
