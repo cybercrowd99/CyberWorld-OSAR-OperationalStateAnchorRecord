@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR — OSARProjectionAuditTrail Artifact
- *
+ * 
  * OSARProjectionAuditTrail defines the bounded audit layer
  * responsible for preserving verification history of a
  * controlled projection trace.
