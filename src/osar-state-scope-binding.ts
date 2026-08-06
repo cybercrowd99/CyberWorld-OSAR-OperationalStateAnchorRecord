@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR — OSARStateScopeBinding Artifact
- *
+ * 
  * OSARStateScopeBinding defines the bounded attachment layer
  * connecting a represented operational condition with its
  * declared containment boundary.
