@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR — OSARProjectionAssuranceIntegrityHistory Artifact
- *
+ * 
  * OSARProjectionAssuranceIntegrityHistory defines the bounded historical layer
  * responsible for preserving a closed integrity-checkpoint lineage following
  * integrity-closure recording.
