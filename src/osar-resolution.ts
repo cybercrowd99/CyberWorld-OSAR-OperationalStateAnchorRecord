@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR — OSARResolution Artifact
- *
+ * 
  * OSARResolution defines the bounded resolution layer
  * responsible for closing a represented operational condition.
  *
