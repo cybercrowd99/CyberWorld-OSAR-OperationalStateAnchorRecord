@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR — Bridge Routing Projection Adapter
- *
+ * 
  * Bridge Adapter defines the bounded routing projection layer
  * responsible for controlled movement between approved operational lanes.
  *
