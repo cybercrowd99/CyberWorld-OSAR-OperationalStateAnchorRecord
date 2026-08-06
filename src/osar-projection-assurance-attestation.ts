@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR — OSARProjectionAssuranceAttestation Artifact
- *
+ * 
  * OSARProjectionAssuranceAttestation defines the bounded attestation layer
  * responsible for recording that an assurance-verification checkpoint has
  * satisfied structural continuity requirements.
