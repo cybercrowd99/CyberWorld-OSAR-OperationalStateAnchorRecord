@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR — OSARRecovery Artifact
- *
+ * 
  * OSARRecovery defines the bounded recovery layer responsible for
  * coordinating structural recovery after validation or projection
  * failures while preserving OSAR continuity.
