@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR — OSARProjectionRequest Artifact
- *
+ * 
  * OSARProjectionRequest defines the bounded request layer
  * responsible for representing a controlled request to move
  * an approved projection intent toward NET handling.
