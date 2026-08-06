@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR — OSARProjectionAssuranceIntegrityConfirmationVerification Artifact
- *
+ * 
  * OSARProjectionAssuranceIntegrityConfirmationVerification defines the bounded
  * verification layer responsible for recording structural verification of an
  * integrity-confirmation checkpoint.
