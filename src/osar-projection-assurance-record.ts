@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR — OSARProjectionAssuranceRecord Artifact
- *
+ * 
  * OSARProjectionAssuranceRecord defines the bounded assurance-recording layer
  * responsible for preserving certification continuity after a projection
  * certification checkpoint.
