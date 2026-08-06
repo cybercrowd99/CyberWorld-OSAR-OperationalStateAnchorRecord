@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR — OSARProjectionContinuity Artifact
- *
+ * 
  * OSARProjectionContinuity defines the bounded continuity
  * representation layer responsible for preserving the complete
  * historical projection chain after projection history recording.
