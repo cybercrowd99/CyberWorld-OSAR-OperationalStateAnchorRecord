@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR — OSARArtifactRegistry Artifact
- *
+ * 
  * OSARArtifactRegistry defines the bounded registry layer
  * responsible for maintaining structural references between
  * approved OSAR artifacts.
