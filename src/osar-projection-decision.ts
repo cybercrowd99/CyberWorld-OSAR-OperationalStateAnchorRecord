@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR — OSARProjectionDecision Artifact
- *
+ * 
  * OSARProjectionDecision defines the bounded decision layer
  * responsible for representing the result of a projection
  * gate evaluation before NET projection handling.
