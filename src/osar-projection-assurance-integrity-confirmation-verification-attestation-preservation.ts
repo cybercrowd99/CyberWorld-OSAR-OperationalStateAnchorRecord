@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR — OSARProjectionAssuranceIntegrityConfirmationVerificationAttestationPreservation Artifact
- *
+ * 
  * OSARProjectionAssuranceIntegrityConfirmationVerificationAttestationPreservation
  * defines the bounded preservation layer responsible for confirming that a
  * completed integrity-confirmation-verification-attestation lineage remains
