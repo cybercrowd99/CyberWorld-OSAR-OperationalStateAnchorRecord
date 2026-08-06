@@ -1,6 +1,6 @@
 /**
  * CyberWorld Ephemeral Session Boundary
- *
+ * 
  * Purpose:
  * - create bounded temporary interaction sessions
  * - preserve session sovereignty
