@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR — OSARProjectionAssuranceLedger Artifact
- *
+ * 
  * OSARProjectionAssuranceLedger defines the bounded assurance-history layer
  * responsible for recording assurance continuity after assurance-record
  * registration.
