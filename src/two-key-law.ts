@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR — Two-Key Law Invariant Artifact
- *
+ * 
  * Two-Key Law defines the authority separation boundary requiring
  * deployment authority and release authority to remain independent.
  *
