@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR — OSARProjectionAssuranceIntegrityConfirmationVerificationAttestationHistory Artifact
- *
+ * 
  * OSARProjectionAssuranceIntegrityConfirmationVerificationAttestationHistory
  * defines the bounded historical layer responsible for preserving a closed
  * integrity-confirmation-verification-attestation lineage following closure
