@@ -1,3 +1,25 @@
+/**
+ * Authority Reference
+ *
+ * Authority reference structural identity layer.
+ *
+ * Purpose:
+ * - represent bounded authority references
+ * - preserve authority type classification
+ * - maintain jurisdiction and ruleset linkage
+ *
+ * Does NOT:
+ * - grant authority
+ * - execute authority actions
+ * - create identity
+ * - establish ownership
+ * - enforce governance rules
+ * - modify permissions
+ * - control external systems
+ *
+ * This layer provides structural authority reference representation only.
+ */
+
 export type AuthorityType =
   | "ORIGIN"
   | "GOVERNANCE"
