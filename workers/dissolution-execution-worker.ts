@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR
- *
+ * 
  * Dissolution Execution Worker
  *
  * Bounded execution handoff organ.
