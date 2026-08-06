@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR — OSARCoreBinding Translation Artifact
- *
+ * 
  * OSARCoreBinding defines the bounded translation layer
  * between OSAR representation and CORE interpretation.
  *
