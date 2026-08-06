@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR — OSARProjectionAssuranceIntegrityPreservation Artifact
- *
+ * 
  * OSARProjectionAssuranceIntegrityPreservation defines the bounded preservation
  * layer responsible for confirming that an archived integrity-continuity chain
  * remains structurally preserved for historical verification.
