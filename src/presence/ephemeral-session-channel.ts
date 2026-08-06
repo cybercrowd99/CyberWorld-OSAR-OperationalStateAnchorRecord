@@ -1,6 +1,6 @@
 /**
  * CyberWorld Ephemeral Session Channel
- *
+ * 
  * Purpose:
  * - define a temporary communication channel boundary
  * - connect an active ephemeral session to a short-lived exchange path
