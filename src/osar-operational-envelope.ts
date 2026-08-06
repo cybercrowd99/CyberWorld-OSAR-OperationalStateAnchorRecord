@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR — OSAROperationalEnvelope Artifact
- *
+ * 
  * OSAROperationalEnvelope defines the bounded aggregation
  * layer responsible for carrying approved OSAR structural
  * relationships as one contained operational representation.
