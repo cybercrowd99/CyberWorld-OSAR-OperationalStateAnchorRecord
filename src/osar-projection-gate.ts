@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR — OSARProjectionGate Artifact
- *
+ * 
  * OSARProjectionGate defines the bounded gate layer
  * responsible for representing the structural checkpoint
  * before NET projection execution.
