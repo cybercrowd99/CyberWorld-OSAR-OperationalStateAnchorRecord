@@ -4,12 +4,19 @@ export default {
     env: unknown,
     ctx: ExecutionContext
   ): Promise<Response> {
+    const anchorRecord = {
+      system: "CyberWorld OSAR",
+      name: "OperationalStateAnchorRecord",
+      status: "active",
+      timestamp: new Date().toISOString()
+    };
+
     return new Response(
-      "CyberWorld OSAR OperationalStateAnchorRecord online",
+      JSON.stringify(anchorRecord),
       {
         status: 200,
         headers: {
-          "content-type": "text/plain"
+          "content-type": "application/json"
         }
       }
     );
