@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR — OSARCompletionState Artifact
- *
+ * 
  * OSARCompletionState defines the bounded completion layer
  * responsible for representing the final structural condition
  * of an OSAR processing path.
