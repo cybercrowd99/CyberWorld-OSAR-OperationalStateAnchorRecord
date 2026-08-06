@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR — OSARProjectionAssuranceIntegrityConfirmationVerificationAttestationArchive Artifact
- *
+ * 
  * OSARProjectionAssuranceIntegrityConfirmationVerificationAttestationArchive
  * defines the bounded archival layer responsible for preserving a completed
  * integrity-confirmation-verification-attestation-history checkpoint for
