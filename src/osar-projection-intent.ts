@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR — OSARProjectionIntent Artifact
- *
+ * 
  * OSARProjectionIntent defines the bounded projection
  * preparation layer responsible for representing an approved
  * request to expose an OSAR operational context.
