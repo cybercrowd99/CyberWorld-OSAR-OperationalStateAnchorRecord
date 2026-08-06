@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR — OSARProjectionIntegrity Artifact
- *
+ * 
  * OSARProjectionIntegrity defines the bounded integrity
  * representation layer responsible for recording the structural
  * integrity condition of a preserved projection chain.
