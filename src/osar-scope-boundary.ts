@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR — OSARScopeBoundary Artifact
- *
+ * 
  * OSARScopeBoundary defines the bounded scope container
  * responsible for declaring where an operational condition
  * is allowed to exist.
