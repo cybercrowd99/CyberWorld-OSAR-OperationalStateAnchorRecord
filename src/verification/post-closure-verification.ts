@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR
- *
+ * 
  * Post Closure Verification
  *
  * The tombstone anchor verification layer.
