@@ -41,3 +41,4 @@ The registry preserves:
 - retrieval integrity
 
 Flow:
+
