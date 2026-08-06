@@ -1,3 +1,26 @@
+/**
+ * CyberWorld-OSAR
+ *
+ * Operational State Anchor Record Layer.
+ *
+ * Purpose:
+ * - represent bounded OSAR anchor records
+ * - preserve attached object and scope references
+ * - maintain authority, evidence, and lifecycle references
+ * - validate structural lifecycle movement
+ *
+ * Does NOT:
+ * - execute deployments
+ * - create authority
+ * - establish ownership
+ * - modify attached objects
+ * - expose private state
+ * - restore expired anchors
+ * - control external systems
+ *
+ * OSAR anchor handling is structural record management only.
+ */
+
 export type OSARLifecycle =
   | "DEPLOYED"
   | "UNDER_REVIEW"
