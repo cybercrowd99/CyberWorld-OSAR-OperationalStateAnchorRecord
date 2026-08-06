@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR — OSARTransition Artifact
- *
+ * 
  * OSARTransition defines the bounded transition representation
  * for controlled movement between validated operational conditions.
  *
