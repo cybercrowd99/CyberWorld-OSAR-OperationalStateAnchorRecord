@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR — OSARProjectionAssuranceIntegrityDissolutionDecision
- *
+ * 
  * Bounded dissolution decision representation layer.
  *
  * This artifact records the structural decision state following a
