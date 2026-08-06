@@ -216,3 +216,4 @@ It does not own the condition.
 It does not own the object.
 
 It defines the authority relationship only.
+
