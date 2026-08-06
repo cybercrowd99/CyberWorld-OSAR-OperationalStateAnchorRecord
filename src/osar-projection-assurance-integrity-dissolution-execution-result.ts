@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR — OSARProjectionAssuranceIntegrityDissolutionExecutionResult
- *
+ * 
  * Bounded dissolution execution-result representation layer.
  *
  * This artifact records the structural outcome of a dissolution execution
