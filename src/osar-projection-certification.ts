@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR — OSARProjectionCertification Artifact
- *
+ * 
  * OSARProjectionCertification defines the bounded certification
  * representation layer responsible for recording that a projection
  * verification ledger has satisfied structural continuity requirements.
