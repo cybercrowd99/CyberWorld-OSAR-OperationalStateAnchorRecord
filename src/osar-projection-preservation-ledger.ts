@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR — OSARProjectionPreservationLedger Artifact
- *
+ * 
  * OSARProjectionPreservationLedger defines the bounded preservation
  * ledger representation layer responsible for recording retained
  * projection continuity references.
