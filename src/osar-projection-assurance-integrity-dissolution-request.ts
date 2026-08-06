@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR — OSARProjectionAssuranceIntegrityDissolutionRequest
- *
+ * 
  * Bounded dissolution-request representation layer.
  *
  * This artifact records that an integrity lifecycle boundary has reached
