@@ -1,6 +1,6 @@
 /**
  * CyberWorld Sovereign Presence Protocol
- *
+ * 
  * Purpose:
  * - enable discoverability without identity capture
  * - expose temporary capability presence
