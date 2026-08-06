@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR — OSARProjectionVerificationLedger Artifact
- *
+ * 
  * OSARProjectionVerificationLedger defines the bounded verification-history
  * layer responsible for recording structural verification continuity after
  * preservation-ledger registration.
