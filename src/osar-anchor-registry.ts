@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR — OSARAnchorRegistry Continuity Artifact
- *
+ * 
  * OSARAnchorRegistry defines the bounded registry mechanism
  * responsible for maintaining OSARAnchor continuity.
  *
