@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR — Dewey Visibility Projection Adapter
- *
+ * 
  * Dewey Adapter defines the bounded visibility projection layer
  * for approved NET surface representations.
  *
