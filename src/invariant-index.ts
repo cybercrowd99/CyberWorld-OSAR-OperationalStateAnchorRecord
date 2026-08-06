@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR — InvariantIndex Artifact
- *
+ * 
  * InvariantIndex defines the bounded registry of OSAR
  * constitutional invariants required for structural validation.
  *
