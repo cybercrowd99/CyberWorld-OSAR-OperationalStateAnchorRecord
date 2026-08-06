@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR — OSARProjectionAssuranceIntegrityConfirmationVerificationAttestationPreservationVerificationLedgerPreservationVerificationLedger Artifact
- *
+ * 
  * This artifact defines the bounded preservation-verification-ledger verification
  * checkpoint layer.
  *
