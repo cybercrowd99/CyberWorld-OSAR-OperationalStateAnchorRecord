@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR — OSARProjectionAssuranceHistory Artifact
- *
+ * 
  * OSARProjectionAssuranceHistory defines the bounded historical layer
  * responsible for preserving a closed assurance checkpoint lineage after
  * closure recording.
