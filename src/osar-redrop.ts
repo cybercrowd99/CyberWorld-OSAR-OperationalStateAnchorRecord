@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR — OSARRedrop Artifact
- *
+ * 
  * OSARRedrop defines the bounded recovery representation
  * for NET projection failures where OSAR integrity remains valid.
  *
