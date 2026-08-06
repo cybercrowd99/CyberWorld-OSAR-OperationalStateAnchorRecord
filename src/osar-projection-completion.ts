@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR — OSARProjectionCompletion Artifact
- *
+ * 
  * OSARProjectionCompletion defines the bounded completion layer
  * responsible for representing closure of a controlled projection
  * path after audit verification.
