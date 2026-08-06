@@ -1,3 +1,25 @@
+/**
+ * CyberWorld-OSAR
+ *
+ * Anchor Lifecycle State Layer.
+ *
+ * Purpose:
+ * - represent OSAR lifecycle state progression
+ * - preserve lifecycle transition boundaries
+ * - validate permitted structural state movement
+ *
+ * Does NOT:
+ * - deploy artifacts
+ * - release authority
+ * - modify external systems
+ * - control infrastructure
+ * - restore expired states
+ * - create ownership
+ * - resolve identity
+ *
+ * Lifecycle transition validation is passive structural control only.
+ */
+
 export type OSARLifecycleState =
   | "DEPLOYED"
   | "UNDER_REVIEW"
