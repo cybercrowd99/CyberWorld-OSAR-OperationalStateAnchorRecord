@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR — OSAR Flow Controller Artifact
- *
+ * 
  * OSAR Flow Controller defines the bounded orchestration layer
  * responsible for maintaining the approved progression path:
  *
