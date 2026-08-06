@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR — OSARProjectionClosure Artifact
- *
+ * 
  * OSARProjectionClosure defines the bounded closure-recording
  * layer responsible for preserving the final structural outcome
  * of a completed projection path.
