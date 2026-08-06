@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR — EventOSAR Origin Artifact
- *
+ * 
  * EventOSAR defines the bounded origin reference
  * responsible for producing a represented operational condition.
  *
