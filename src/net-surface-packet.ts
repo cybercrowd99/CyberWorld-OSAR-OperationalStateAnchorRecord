@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR — NetSurfacePacket Projection Artifact
- *
+ * 
  * NetSurfacePacket defines the bounded NET projection representation
  * of an approved OSAR operational condition.
  *
