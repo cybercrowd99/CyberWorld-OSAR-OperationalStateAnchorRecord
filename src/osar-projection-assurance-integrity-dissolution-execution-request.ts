@@ -1,6 +1,6 @@
 /**
  * OSAR Projection Assurance Integrity Dissolution Execution Request
- *
+ * 
  * Purpose:
  * - Record a bounded dissolution execution handoff request.
  * - Preserve lifecycle transition intent without executing dissolution.
