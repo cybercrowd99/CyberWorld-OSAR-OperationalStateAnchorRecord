@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR — OSARProjectionTrace Artifact
- *
+ * 
  * OSARProjectionTrace defines the bounded trace layer
  * responsible for preserving the lineage of a controlled
  * surface projection path.
