@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR — WorldStateEvaluator Validation Artifact
- *
+ * 
  * WorldStateEvaluator defines the bounded evaluation layer
  * responsible for determining whether an operational condition
  * transition complies with declared OSAR constraints.
