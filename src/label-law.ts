@@ -1,6 +1,6 @@
 /**
  * CyberWorld-OSAR — Label Law Invariant Artifact
- *
+ * 
  * Label Law defines the semantic boundary requiring represented
  * operational conditions to maintain descriptive meaning.
  *
